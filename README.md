@@ -7,11 +7,11 @@ Este desafio, proposto pelo instrutor Felipe da DIO, faz parte do Bootcamp Lógi
 Objetivos: 
 
 1. criar uma classe genérica que represente um herói de uma aventura e que possua as seguintes propriedades:
-  - nome
-  - idade
-  - tipo (ex: guerreiro, mago, monge, ninja)
+   - nome
+   - idade
+   - tipo (ex: guerreiro, ninja, monge, monge)
 
-2. criar um método utilizando condicionais para cada tipo de héroi:
+3. criar um método utilizando condicionais para cada tipo de héroi:
    - se guerreiro atacou usando uma espada
    - se mago atacou usando magia
    - se ninja atacou usando shuriken
